@@ -1,0 +1,26 @@
+{
+
+  "name": "timestampcallback",
+  "version": "0.0.1",
+  "description": "freecodecamp back end project for returning unix time",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.15.5"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "type" : "git"
+  , "url" : "https://github.com/Be3N2/Timestamp-Microservice"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
