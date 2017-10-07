@@ -1,7 +1,7 @@
 # Timestamp-Microservice
- Simple unix timestamp node server.
+ Simple unix timestamp node server built with glitch.
  
- For a freecodecamp backend basejump project and the first time I have ever made a project in node and express.
+ For a freecodecamp backend basejump project and the first time I have ever made a project in node and express and the first time making anything in the glitch environment.
  
  Example Usage:
  https://timestamp-ms.herokuapp.com/December%2015,%202015
