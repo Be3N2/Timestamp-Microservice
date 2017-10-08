@@ -1,2 +1,43 @@
 /* styles */
 /* called by your view template */
+
+body {
+  text-align: center; 
+  font-family: "arial";
+}
+
+.main-box {
+  width: 40%;
+  margin: 0 auto;
+  margin-top: 75px;
+}
+
+.text-box {
+  width: 60%;
+  margin: 0 auto;
+}
+
+ul {
+  list-style: none;
+}
+li {
+  margin-top: 10px;
+}
+
+h1 {
+  color: purple;
+  padding-top: 50px;
+}
+
+h3 {
+  color: orchid;
+}
+
+h5 {
+  color: orchid;
+  font-size: 20px;
+}
+
+.footNote {
+  color: grey;
+}
